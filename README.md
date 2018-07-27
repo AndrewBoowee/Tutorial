@@ -1,4 +1,4 @@
-## SVG Images Tutorial
+## SVG Tutorial
 #### By: Andrew Bui
 ##
 
