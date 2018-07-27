@@ -5,6 +5,9 @@
 #### **_What are SVG images?_**
 The full name for SVG is Scalable Vector Graphics and it is an XML based vector image for 2D graphics that has support for animation and interactivity. In today's society, almost everyone has a device that has a screen and is able to view a picture. With SVG it can scale images to the appropriate screen size due to SVG being vector graphic based. SVG images are able to compress in small file size efficiently and is not too hard to design. SVG images are seen almost everyday when you look at and advertisment that pops up, a Facebook video, a GIF,or even an emote.
 
+#### **_Targeted Audience_**
+The targeted Audience for this tutorial would be direct towards beginners of any age group.
+
 
 #### **_SVG Image Code Exmaple - Circle_**
 -Creating simple SVG circle image
